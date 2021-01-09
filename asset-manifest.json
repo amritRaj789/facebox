@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/facebox/static/css/main.aa7d27e3.chunk.css",
+    "main.js": "/facebox/static/js/main.a8a13b9a.chunk.js",
+    "main.js.map": "/facebox/static/js/main.a8a13b9a.chunk.js.map",
+    "runtime-main.js": "/facebox/static/js/runtime-main.8dbe90f1.js",
+    "runtime-main.js.map": "/facebox/static/js/runtime-main.8dbe90f1.js.map",
+    "static/css/2.31461e4f.chunk.css": "/facebox/static/css/2.31461e4f.chunk.css",
+    "static/js/2.aa22ebd6.chunk.js": "/facebox/static/js/2.aa22ebd6.chunk.js",
+    "static/js/2.aa22ebd6.chunk.js.map": "/facebox/static/js/2.aa22ebd6.chunk.js.map",
+    "index.html": "/facebox/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/facebox/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.aa7d27e3.chunk.css.map": "/facebox/static/css/main.aa7d27e3.chunk.css.map",
+    "static/js/2.aa22ebd6.chunk.js.LICENSE.txt": "/facebox/static/js/2.aa22ebd6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dbe90f1.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.aa22ebd6.chunk.js",
+    "static/css/main.aa7d27e3.chunk.css",
+    "static/js/main.a8a13b9a.chunk.js"
+  ]
+}
